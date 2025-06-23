@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/*estilos de header*/
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+header img {
+  width: 20%;
+
+}
+
+header nav ul {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+}
